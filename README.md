@@ -2,5 +2,4 @@
 
 本仓库取名 r2coding，即 Road To Coding，意为「编程自学之路」，是自学编程以来所用资源和分享内容的大聚合。
 
-旨在为编程自学者提供一系列：
-[markdown语法】（https://zhuanlan.zhihu.com/p/86516807）
+[markdown语法]（https://zhuanlan.zhihu.com/p/86516807）
