@@ -8,7 +8,6 @@
 #### Chrome插件
 - [ghelper翻墙](googlehelper.net)
 - infinity新标签页
-- [油猴](tampermonkey.net)
 - [油猴脚本](https://greasyfork.org/zh-CN)
 ***
 #### Linux
