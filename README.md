@@ -1,9 +1,9 @@
 ## ayue的仓库
 ***
 #### Markdown语法
-[Markdown语法1](https://zhuanlan.zhihu.com/p/86516807)
+- [Markdown语法1](https://zhuanlan.zhihu.com/p/86516807)
 
-[Markdown语法2](https://mp.weixin.qq.com/s/67iYRvOXV6E9YxDHjjW0Gg)
+- [Markdown语法2](https://mp.weixin.qq.com/s/67iYRvOXV6E9YxDHjjW0Gg)
 ***
 #### Chrome插件
 - [ghelper翻墙](googlehelper.net)
